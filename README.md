@@ -7,7 +7,7 @@ the pandemic it is not easy to go around the college and wait for and get it. So
 we aim to create an option in the website portal where the student who needs an LOR can
 apply for it from their student login portal, and also they can choose the faculty according to
 their convince from whom they need the LOR .This being an open-source project, we will be
-using Html, CSS for frontend and php and MySQL for backend. We have also included
+using ***Html, CSS for frontend and PHP and MySQL for backend***. We have also included
 features like updating password for both faculty and student, created a record of the faculty
 profile and student profile and update it now and then for the updated marks and timetable
 which is useful for both the student and faculty. Here we used mpdf library which is going to
